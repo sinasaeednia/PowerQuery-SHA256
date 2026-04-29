@@ -1,4 +1,4 @@
-# PowerQuery-SHA256
+# PowerQuery SHA256 function
 Provides SHA256 hashkey for integrity and incrememntal checks accross power Query enables applications (Power BI, Excel, ...)
 
 Copy and paste the whole SHA256.pq content into a new Power Query Blank Query. It should show up as fx in the list of queries pane (on the left), indicating that it's confirmed as being a function.
